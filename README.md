@@ -1,1 +1,1 @@
-this repo  is game purpose
+This repo  is game purpose
